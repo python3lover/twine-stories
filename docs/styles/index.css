@@ -2,7 +2,7 @@ body {
   font-family: sans-serif;
   margin: auto;
   max-width: 1280px;
-  background-image: url:("https://upload.wikimedia.org/wikipedia/commons/0/0a/Twine_vector_logo.svg")
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/0/0a/Twine_vector_logo.svg");
 }
 
 .navbar {
