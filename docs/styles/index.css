@@ -2,20 +2,15 @@ body {
   font-family: sans-serif;
   margin: auto;
   max-width: 1280px;
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/0/0a/Twine_vector_logo.svg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center; 
 }
 
 .navbar {
-  background-color: #313236;
+  background-color: #2C2F33;
   border-radius: 2px;
-  max-width: 800px;
 }
 
 .navbar a {
-  color: #aaa;
+  color: #23272A;
   display: inline-block;
   font-size: 15px;
   padding: 10px;
@@ -23,6 +18,17 @@ body {
 }
 
 .navbar a:hover {
-  color: #ffffff;
+  color: #99AAB5;
 }
 
+.navbar p {
+  color: #23272A;
+  display: inline-block;
+  font-size: 15px;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.navbar p:hover {
+  color: #99AAB5;
+}
