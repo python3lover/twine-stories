@@ -3,6 +3,9 @@ body {
   margin: auto;
   max-width: 1280px;
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/0/0a/Twine_vector_logo.svg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
 }
 
 .navbar {
