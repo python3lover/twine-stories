@@ -5,12 +5,12 @@ body {
 }
 
 .navbar {
-  background-color: #2C2F33;
+  background-color: #7289DA;
   border-radius: 2px;
 }
 
 .navbar a {
-  color: #23272A;
+  color: #FFFFFF;
   display: inline-block;
   font-size: 15px;
   padding: 10px;
@@ -22,7 +22,7 @@ body {
 }
 
 .navbar p {
-  color: #23272A;
+  color: #FFFFFF;
   display: inline-block;
   font-size: 15px;
   padding: 10px;
@@ -30,5 +30,5 @@ body {
 }
 
 .navbar p:hover {
-  color: #99AAB5;
+  color: #FFFFFF;
 }
